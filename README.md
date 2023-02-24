@@ -1,3 +1,3 @@
 ![ShadowCrypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowcrypto1&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrypto1&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrypto1&theme=dark&layout=compact)(https://github.com/shadowcrypto1/github-readme-stats)
 
